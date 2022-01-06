@@ -1,0 +1,99 @@
+body{text-align: center;
+background-color: rgb(5, 5, 224);
+margin-top: 30px;
+margin-left: 100px;
+margin-right: 100px;
+}
+#inisio
+{
+    background: linear-gradient(blue 10%, rgb(2, 185, 231) 90%);
+    width: 100%;
+    height: 120%;
+    bottom: 0%;
+}
+#dibujo
+{
+    width: 300px;
+    border-style:solid ;
+    border-radius: 20%;
+    border-color: rgb(0, 174, 255);
+}
+#div2
+{
+    color: mintcream;
+    font-size: 25px;
+    font-family: Handlee;
+}
+#titulo
+{
+    font-family: audiowide;
+    font-size: 90px;
+    color: rgb(19, 207, 19);
+}
+#linea2
+{
+font-family: Oi;
+font-size: 30px;
+}
+#juego
+{
+    font-family: audiowide;
+    font-size: 40px; 
+    background-color: cyan;
+}
+.menu
+{
+list-style:none;
+font-family: audiowide;
+    font-size: 40px; 
+    cursor: pointer;
+    background-color: darkcyan;
+position: fixed;
+width: 100%;
+margin-top: 0px;
+}
+#foto2
+{width: 900px;
+
+}
+#contacto
+{background-color: rgb(31, 31, 87);
+
+}
+.link
+{display: inline;
+padding-left: 40px;
+padding-right: 40px;
+}
+.link:hover
+{font-size: 50px;
+
+}
+#imagenes
+{
+    font-family: audiowide;
+    font-size: 90px;
+    color: rgb(19, 207, 19);   
+}
+#videos
+{
+    font-family: audiowide;
+    font-size: 90px;
+    color: rgb(19, 207, 19);
+}
+#informasion
+{
+    font-family: audiowide;
+    font-size: 90px;
+    color: rgb(19, 207, 19);
+}
+#contactop
+{
+    font-family: audiowide;
+    font-size: 90px;
+    color: rgb(19, 207, 19);
+}
+#mis_creasiones
+{font-family: audiowide;
+    font-size: 90px;
+    color: rgb(19, 207, 19);}
